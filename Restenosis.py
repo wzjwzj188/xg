@@ -146,16 +146,6 @@ print(type(X_train), X_train.shape)
 print(type(y_train), y_train.shape)
 
 
-# In[ ]:
-
-
-# Define feature options
-cp_options = {1: 'Typical angina (1)',    
-              2: 'Atypical angina (2)',    
-              3: 'Non-anginal pain (3)',    
-              4: 'Asymptomatic (4)'
-
-
 # In[23]:
 
 
